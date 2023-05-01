@@ -65,6 +65,9 @@ public class ManavKasa {
         toplam=(armut*2.14)+(elma*3.67)+(domates*1.11)+(muz*0.95)+(patlican*5.0);
         System.out.print("Toplam tutar= "+toplam);
 
+
+        çok da kısa değilmiş ben boşluk kullanmayı seviyorum kod yazmak sanattır
+
         */
 
     }
