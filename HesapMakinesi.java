@@ -3,17 +3,18 @@ import java.util.Scanner;
 public class HesapMakinesi {
     public static void main(String[] args) {
 
-        int n1, n2, islem;
+        int islem;
+        double n1, n2;
         //Birinci sayı, İkinci sayı ve işlem türünü belirttik
 
         Scanner input = new Scanner(System.in);
         System.out.print("İlk sayıyı giriniz: ");
-        n1 = input.nextInt();
+        n1 = input.nextDouble();
         //Burada kullanıcıdan ilk değeri alıyoruz
 
 
         System.out.print("İkinci sayıyı giriniz: ");
-        n2 = input.nextInt();
+        n2 = input.nextDouble();
         //Burada kullanıcıdan ikinci değeri alıyoruz
 
 
