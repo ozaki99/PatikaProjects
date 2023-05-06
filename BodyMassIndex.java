@@ -29,6 +29,5 @@ public class BodyMassIndex {
         System.out.println("BMI Hesaplandı: " + (bmi < 18 ? "Underweight" : (bmi < 25 ? "Normal weight" : (bmi < 35 ? "Overweight" : "Extreme overweight"))));
 
         //Biraz karmaşık duruyor...
-
     }
 }
