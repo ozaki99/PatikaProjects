@@ -29,7 +29,7 @@ public class UcgenOlusturma {
             }
             System.out.println("\n   Pyramit by ozaki99   ");
         }else{
-            System.out.println("Error: Please enter a number bigger than 0!");
+            System.out.println("HATA\nLütfen 3'ten büyük bir sayı giriniz!");
         }
     }
 }
